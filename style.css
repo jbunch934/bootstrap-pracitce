@@ -1,0 +1,96 @@
+.nav-item{
+    
+    justify-content: space-between;
+    display: flex;
+    padding: 15px;
+    float: right;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    display: inline;
+    
+}
+
+H2{
+display: flex;
+justify-content: center;
+text-align: center;
+}
+
+.nav-brand{
+    position: absolute;
+    
+}
+
+
+.summary{
+    display: flex;
+    justify-content:center;
+    text-align: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    
+}
+h1{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+body{
+    background-color: lightgrey;
+}
+ 
+.h3{
+    position: absolute;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    float:left;
+    text-align: left;
+    display: flex;
+}
+
+.agile{
+    position: absolute;
+    display: flex;
+    flex-direction:column;
+    padding-top: 50px;
+    
+}
+
+.navbar-nav{
+    display: flex;
+    justify-content: flex-end;
+    float: right;
+    color: black;
+    
+}
+
+.pro{
+    position:absolute;
+    padding-bottom: 40px;
+    text-align: center;
+    
+}
+
+.work{
+    position: absolute;
+    
+    padding-left: 290px;
+}
+
+.summary{
+    text-align: center;
+}
+
+.contact{
+    text-align: center;
+    color: black;
+    position: relative;
+}
+
